@@ -1,0 +1,3 @@
+class Alligator {
+    constructor(name)
+}

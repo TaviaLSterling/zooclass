@@ -8,4 +8,7 @@ class Lion {
         this.age = age || 0
     }
 }
+
+let Simba = new Lion('Simba','Golden brown','M', 250, 25)
+
 export default Lion

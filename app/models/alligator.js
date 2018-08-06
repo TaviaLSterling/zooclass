@@ -7,4 +7,6 @@ class Alligator {
         this.weight = weight || 0
     }
 }
+
+
 export default Alligator

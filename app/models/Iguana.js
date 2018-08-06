@@ -9,4 +9,5 @@ class Iguana {
         this.length = length || 0
     }
 }
+let Chad = new Iguana('Chad','green','M',7,31,3.5)
 export default Iguana

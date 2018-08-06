@@ -8,4 +8,5 @@ class Monkey {
         this.age = age || 0
     }
 }
+let Danny = new Monkey('Danny','brown','M',10,45)
 export default Monkey

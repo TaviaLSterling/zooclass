@@ -8,4 +8,5 @@ class Hedgehog {
         this.age = age || 0
     }
 }
+let Diane = new Hedgehog('Diane','brown','F', .5, 70)
 export default Hedgehog

@@ -8,4 +8,5 @@ class Owl {
         this.height = height || 0
     }
 }
+let Tina = new Owl('Tina','white','F',3,1.5)
 export default Owl

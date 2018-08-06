@@ -7,4 +7,5 @@ class Elephant {
         this.weight = weight || 0
     }
 }
+let Tuesday = new Elephant('Tuesday','grey','F', 2000)
 export default Elephant

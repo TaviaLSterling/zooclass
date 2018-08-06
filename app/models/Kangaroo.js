@@ -9,4 +9,5 @@ class Kangaroo {
         this.age = age || 0
     }
 }
+let Tatum = new Kangaroo('Tatum','red','F',200,5,18)
 export default Kangaroo

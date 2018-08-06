@@ -8,4 +8,5 @@ class Newt {
         this.age = age || 0
     }
 }
+let Ryan = new Newt('Ryan','yellow','M',.5,10)
 export default Newt

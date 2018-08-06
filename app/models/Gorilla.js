@@ -8,4 +8,5 @@ class Gorilla {
         this.age = age || 0
         }
 } 
+let Russell = new Gorilla('Russell','black','M',500,25)
 export default Gorilla

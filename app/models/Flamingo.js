@@ -8,4 +8,5 @@ class Flamingo {
         this.height = height || 0
         }
 }
+let Bob = new Flamingo('Bob','pink','M', 15, 4)
 export default Flamingo

@@ -8,5 +8,5 @@ class Alligator {
     }
 }
 
-
+let Frank = new Alligator('Frank','green','M', 200)
 export default Alligator

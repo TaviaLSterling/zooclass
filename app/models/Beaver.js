@@ -7,5 +7,5 @@ class Beaver {
         this.weight = weight || 0
     }
 }
-
+let Trace = new Beaver('Trace', 'brown','M', 90)
 export default Beaver

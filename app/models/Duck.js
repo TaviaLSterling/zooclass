@@ -7,4 +7,5 @@ class Duck {
         this.weight = weight || 0
     }
 }
+let Remi = new Duck('Remi','white','F', 8)
 export default Duck 

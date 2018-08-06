@@ -7,4 +7,5 @@ class Cow {
         this.weight = weight || 0
     }
 }
+let Tonya = new Cow('Tonya','black','F', 500)
 export default Cow

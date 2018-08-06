@@ -8,4 +8,5 @@ class Walrus {
         this.age = age || 0
     }
 }
+let Wally = new Walrus('Wally',"brown",'M',500, 17)
 export default Walrus

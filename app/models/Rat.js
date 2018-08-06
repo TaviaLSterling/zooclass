@@ -8,4 +8,5 @@ class Rat {
         this.age = age || 0
     }
 }
+let Jasper = new Rat('Jasper','white','M',.4,1)
 export default Rat

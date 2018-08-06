@@ -9,4 +9,5 @@ class Zebra {
         this.age = age || 0
     }
 }
+let Patrick = new Zebra('Patrick',"black and white",'M',500,4,30)
 export default Zebra

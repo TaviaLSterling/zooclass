@@ -8,4 +8,5 @@ class Quail {
         this.height = height || ''
     }
 }
+let Krystal = new Quail('Krystal','brown','F',.5,.5)
 export default Quail

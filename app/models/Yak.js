@@ -8,4 +8,5 @@ class Yak {
         this.age = age || 0
     }
 }
+let Holly = new Yak('Holly','brown','F',700,40)
 export default Yak

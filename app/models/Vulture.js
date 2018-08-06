@@ -8,4 +8,5 @@ class Vulture {
         this.wingSpan = wingSpan || 0
     }
 }
+let Ivan = new Vulture('Ivan','brown','M',10,5)
 export default Vulture

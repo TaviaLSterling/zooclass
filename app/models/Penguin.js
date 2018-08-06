@@ -9,4 +9,5 @@ class Penguin {
         this.age = age || 0
     }
 }
+let Steve = new Penguin('Steve','black and white','M',2.5,7)
 export default Penguin

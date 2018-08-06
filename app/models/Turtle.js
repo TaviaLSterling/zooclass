@@ -8,4 +8,5 @@ class Turtle {
         this.age = age || 0
     }
 }
+let Leonard = new Turtle('Leonard','green','M',9,50)
 export default Turtle

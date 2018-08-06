@@ -8,4 +8,5 @@ class Snake {
         this.type = type || ''
     }
 }
+let Sally = new Snake('Sally','red and yellow','F',5,'cobra')
 export default Snake

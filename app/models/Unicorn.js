@@ -8,4 +8,5 @@ class Unicorn {
         this.age = age || 0
     }
 }
+let Cobus = new Unicorn('Cobus','white','M',500, 10)
 export default Unicorn
